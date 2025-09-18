@@ -34,35 +34,16 @@ Importante: Por tu seguridad, no subas el archivo .env a repositorios públicos.
 📊 Formato del Google Sheet
 La aplicación espera que los datos en tu hoja de cálculo sigan esta estructura. El nombre de las columnas debe ser exactamente el siguiente para que el parsing funcione correctamente:
 
-Producto
+-Producto en 1A
 
-Costo
+-Costo 2A
 
-PrecioVenta
+-PrecioVenta en 3A
 
-CantidadVendida
+-CantidadVendida en 4A
 
-CantidadComprada
+-CantidadComprada en 5A
 
-Bralette encaje rosa
-
-1500
-
-3000
-
-2
-
-5
-
-Conjunto básico
-
-2000
-
-4500
-
-1+
-
-3
 
 Notas:
 
